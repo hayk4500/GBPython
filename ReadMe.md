@@ -1,0 +1,2 @@
+# Репозиторий для домашки по Python
+![Приём питона](https://sun9-30.userapi.com/impg/DZGLjh8kU4WwFcQbbecl-MOEaCEQuZkbDEGGlQ/7RY3hFX8nLY.jpg?size=1280x719&quality=96&sign=d418321b9095e370539d645d824d2f60&type=album)
